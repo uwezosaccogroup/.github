@@ -1,10 +1,10 @@
-# Uwezo Sacco Group 💰💸💳
+# Uwezo Group 💰
 
 Welcome to the Uwezo Sacco Group GitHub organization! We are a team of talented individuals dedicated to creating innovative solutions to help people achieve financial freedom.
 
 ## Our Projects 🚀
 
-### Uwezo Web Application 📱 🌐
+### Uwezo Sacco Web Application 📱 🌐 💸💳
 
 Our flagship project is the Uwezo Web Application, a one-stop-shop for all things Uwezo. It allows users to manage their finances on the go. With features such as account management, savings tracking, and loan applications, the Uwezo Web Application is the perfect tool for anyone looking to take control of their finances.
 
